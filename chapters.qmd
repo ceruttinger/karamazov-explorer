@@ -1,0 +1,10 @@
+---
+title: "Read the Novel"
+---
+
+Navigate the structure of the novel. Your selected chapter also controls the
+site-wide spoiler boundary.
+
+<div id="bk-chapter-browser"></div>
+
+<script src="assets/js/explorer.js"></script>

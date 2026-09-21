@@ -1,0 +1,15 @@
+entity_id,canonical_name,aliases,entity_type,resolution_status,authority_status,validation_status,source_method,first_known_position,mentions,passages,first_position,last_position
+CHAR_001,Fyodor Pavlovich Karamazov,"[""Fyodor Pavlovich"", ""Fyodor Pavlovitch"", ""Karamazov""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,1,463,331,1,5659
+CHAR_002,Dmitri Fyodorovich Karamazov,"[""Dmitri"", ""Dmitri Fyodorovich"", ""Dmitri Fyodorovitch"", ""Mitya"", ""Mitenka"", ""Mitka""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,3,1464,932,3,5584
+CHAR_003,Ivan Fyodorovich Karamazov,"[""Ivan"", ""Ivan Fyodorovich"", ""Ivan Fyodorovitch"", ""Vanya"", ""Vanechka""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,3,768,514,3,5547
+CHAR_004,Alexei Fyodorovich Karamazov,"[""Alexei"", ""Alexey"", ""Alexei Fyodorovich"", ""Alexey Fyodorovitch"", ""Alyosha"", ""Alyoshka""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,2,1513,1025,2,5658
+CHAR_005,Pavel Fyodorovich Smerdyakov,"[""Pavel Smerdyakov"", ""Smerdyakov""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,291,374,257,291,5527
+CHAR_006,Agrafena Alexandrovna Svetlova,"[""Agrafena Alexandrovna"", ""Grushenka"", ""Grusha""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,389,419,316,389,5576
+CHAR_007,Katerina Ivanovna Verkhovtseva,"[""Katerina Ivanovna"", ""Katya"", ""Katia""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,209,275,203,209,5614
+CHAR_008,Zosima,"[""Zosima"", ""Zossima"", ""Father Zosima"", ""Father Zossima"", ""Elder Zosima"", ""Elder Zossima""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,26,198,87,26,4917
+CHAR_009,Ilyusha Snegiryov,"[""Ilyusha"", ""Ilusha"", ""Ilyushechka""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,1298,167,108,1298,5655
+CHAR_010,Nikolai Krasotkin,"[""Nikolai Krasotkin"", ""Kolya Krasotkin"", ""Kolya Krassotkin"", ""Kolya""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,3778,215,152,3778,5659
+CHAR_011,Pyotr Alexandrovich Miusov,"[""Miusov"", ""Mi\u00fcsov"", ""Pyotr Alexandrovich""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,3,79,70,3,5061
+CHAR_012,Pyotr Ilyich Perkhotin,"[""Perkhotin"", ""Perhotin"", ""Pyotr Ilyich""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,2560,29,29,2560,5399
+CHAR_013,Madame Khokhlakov,"[""Madame Khokhlakov"", ""Madame Hohlakov"", ""Mrs. Khokhlakov"", ""Mrs. Hohlakov""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,92,93,81,92,5527
+CHAR_014,Lise Khokhlakov,"[""Lise"", ""Liza Khokhlakov"", ""Lise Hohlakov""]",PERSON,human_seed,seeded,reviewed,v0.1 curated authority,201,146,114,201,5596

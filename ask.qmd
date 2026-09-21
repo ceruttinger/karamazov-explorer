@@ -1,0 +1,112 @@
+---
+title: "Ask Dostoevsky"
+include-after-body: assets/ask-loader.html
+---
+
+<div class="bk-ask-hero">
+
+<div class="bk-eyebrow">SPOILER-AWARE LITERARY RAG</div>
+
+# Ask Dostoevsky
+
+Ask about a character, conflict, idea, symbol, or moral question in
+*The Brothers Karamazov*.
+
+The answer will use a **simulated Dostoevskian literary voice**, while its
+claims remain grounded in passages from the novel available at your current
+**I've read through...** position.
+
+<div class="bk-ask-warning">
+<strong>Literary simulation.</strong>
+Generated responses are not quotations from Dostoevsky. Direct quotations
+from the novel will be identified separately and linked to their source passages.
+</div>
+
+</div>
+
+<div class="bk-ask-layout">
+
+<section class="bk-ask-main">
+
+<div id="bk-ask-messages" class="bk-ask-messages">
+
+<div class="bk-ask-message bk-ask-dostoevsky">
+
+<div class="bk-ask-speaker">
+DOSTOEVSKY · SIMULATED VOICE
+</div>
+
+<p>
+You have opened the book and disturbed its people from their arguments.
+Very well. Ask what troubles you. But remember: a man rarely asks a
+question without revealing something of himself in the asking.
+</p>
+
+</div>
+
+</div>
+
+<form id="bk-ask-form">
+
+<textarea
+id="bk-ask-question"
+rows="4"
+placeholder="Ask about Ivan, Alyosha, Dmitri, faith, freedom, guilt, suffering..."
+></textarea>
+
+<div class="bk-ask-form-footer">
+
+<div id="bk-ask-boundary">
+Reading boundary loading...
+</div>
+
+<button id="bk-ask-submit" type="submit">
+Ask Dostoevsky
+</button>
+
+</div>
+
+</form>
+
+</section>
+
+<aside class="bk-ask-sidebar">
+
+<div class="bk-eyebrow">TRY ASKING</div>
+
+<div class="bk-ask-prompts">
+
+<button type="button">
+What does Ivan seem to believe about human freedom?
+</button>
+
+<button type="button">
+How does Alyosha respond to suffering?
+</button>
+
+<button type="button">
+What is driving the conflict between Dmitri and his father?
+</button>
+
+<button type="button">
+What has the novel said about faith and doubt so far?
+</button>
+
+<button type="button">
+What should I notice about the Karamazov family?
+</button>
+
+</div>
+
+<hr>
+
+<div class="bk-eyebrow">EVIDENCE RULE</div>
+
+<p class="small">
+The model may only receive passages at or before your selected reading
+boundary. Later passages are excluded before retrieval.
+</p>
+
+</aside>
+
+</div>

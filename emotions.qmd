@@ -1,0 +1,26 @@
+---
+title: "Emotional Arc"
+---
+
+Explore AFINN sentiment and NRC lexical emotion signals across the 96 chapters.
+
+<div class="bk-controls">
+  <label for="bk-emotion-select">Measure</label>
+  <select id="bk-emotion-select">
+    <option value="afinn_per_100_words">AFINN sentiment</option>
+    <option value="anger_per_100">Anger</option>
+    <option value="anticipation_per_100">Anticipation</option>
+    <option value="disgust_per_100">Disgust</option>
+    <option value="fear_per_100">Fear</option>
+    <option value="joy_per_100">Joy</option>
+    <option value="sadness_per_100">Sadness</option>
+    <option value="surprise_per_100">Surprise</option>
+    <option value="trust_per_100">Trust</option>
+  </select>
+</div>
+
+<div id="bk-emotion-chart" class="bk-chart"></div>
+<div id="bk-emotion-chapter-detail"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@3.1.0/plotly.min.js"></script>
+<script src="assets/js/explorer.js"></script>

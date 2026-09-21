@@ -1,0 +1,9 @@
+---
+title: "Sentiment"
+---
+
+This section explores changes in lexical sentiment across the novel.
+
+The analytical data have already been generated and will be expanded
+into interactive chapter and passage visualizations in the next
+iteration.

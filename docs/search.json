@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "characters.html",
+    "href": "characters.html",
+    "title": "Characters",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nExplore each character through textual appearances, emotional context, connections, concepts, and source evidence. Characters beyond your current reader position are automatically hidden.\n\n\n Character group  All characters Karamazov household Central relationships Monastery & social circle Ilyusha / later circle  \n Jump to character  Select character…  \n\n\n\n‹\n\n\n\n\n\n›"
+  },
+  {
+    "objectID": "chapters.html",
+    "href": "chapters.html",
+    "title": "Read the Novel",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nNavigate the structure of the novel. Your selected chapter also controls the site-wide spoiler boundary."
+  },
+  {
+    "objectID": "emotions.html",
+    "href": "emotions.html",
+    "title": "Emotional Arc",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nExplore AFINN sentiment and NRC lexical emotion signals across the 96 chapters.\n\nMeasure  AFINN sentiment Anger Anticipation Disgust Fear Joy Sadness Surprise Trust"
+  },
+  {
+    "objectID": "search.html",
+    "href": "search.html",
+    "title": "Search the Novel",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nSearch the text, characters, chapter metadata, and concepts. Results respect your current spoiler boundary.\n\nSearch the novel  Search"
+  },
+  {
+    "objectID": "sentiment.html",
+    "href": "sentiment.html",
+    "title": "Sentiment",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nThis section explores changes in lexical sentiment across the novel.\nThe analytical data have already been generated and will be expanded into interactive chapter and passage visualizations in the next iteration."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Project",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…"
+  },
+  {
+    "objectID": "about.html#what-this-is",
+    "href": "about.html#what-this-is",
+    "title": "About the Project",
+    "section": "What this is",
+    "text": "What this is\nThis project treats The Brothers Karamazov as a computational humanities corpus while preserving a distinction between textual observation and interpretation."
+  },
+  {
+    "objectID": "about.html#epistemic-model",
+    "href": "about.html#epistemic-model",
+    "title": "About the Project",
+    "section": "Epistemic model",
+    "text": "Epistemic model\nObserved — directly derived from the text, such as a character mention or co-occurrence.\nMachine-proposed — a computational interpretation that has not yet been human validated.\nHuman-validated — an assertion reviewed against its textual evidence."
+  },
+  {
+    "objectID": "about.html#current-analytical-layers",
+    "href": "about.html#current-analytical-layers",
+    "title": "About the Project",
+    "section": "Current analytical layers",
+    "text": "Current analytical layers\n\nstructured Part → Book → Chapter → Passage corpus\ncharacter authority and alias resolution\ncharacter mentions and co-occurrence\nAFINN sentiment\nNRC lexical emotions\nresearcher-curated lexical concepts\nevidence-backed candidate semantic relationships\nspoiler-aware narrative position\nknowledge-graph representation\nretrieval-ready passage corpus"
+  },
+  {
+    "objectID": "emotional-arc.html",
+    "href": "emotional-arc.html",
+    "title": "Emotional Arc",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nExplore changes in sentiment and emotional language across The Brothers Karamazov. Scores describe the language of passages—not the psychological state of a character.\n\n Lens  Whole novel Character context  \n Character  \n View  Single measure Compare emotions  \n\n\n\n\n\n\n\n\n\n\n\n\nEMOTIONAL TRAJECTORY\n\n\nEmotional language across the novel\n\n\n\n\n\n\n\nClick a chapter on the chart to inspect its emotional fingerprint and the passages contributing to the selected measure.\n\n\n\n\n\nCHAPTER INSPECTOR\n\n\nSelect a chapter\n\n\nClick a point in the trajectory to inspect the chapter’s emotional profile and source passages.\n\n\n\n\n\n\n\n\nSOURCE TEXT\n\n\nPassages behind the signal\n\n\n Sort passages  Strongest signal Reading order"
+  },
+  {
+    "objectID": "passages.html",
+    "href": "passages.html",
+    "title": "Passages",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nBrowse and search the source text behind the analytical layers of this project. Everything shown here respects your current I’ve read through… setting.\n\n Part  All visible parts  \n Book  All visible books  \n Chapter  All visible chapters  \n Search visible text  \n\n\nLoading passages…\n\n\n\n\n\n\n\nLoad more passages"
+  },
+  {
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Themes & Concepts",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nExplore how computationally identified concepts move through the novel. Select one or several concepts to compare their trajectories, associated characters, chapters, and textual evidence.\n\n\n\nCONCEPT SELECTION\n\n\n\n\n\n\n\nClear\n\n\nSelect all\n\n\n\n\n\n\n\n\n\n\n\nTRAJECTORY\n\n\nConcepts across the novel\n\n\n Measure  Passages mentioning concept Total term matches  \n\n\n\n\n\nThe chart is truncated at your current reader position. Click a point to inspect that chapter.\n\n\n\n\n\nCONCEPT INSPECTOR\n\n\nSelect a concept\n\n\nChoose a concept above to inspect its definition, chapter trajectory, associated characters, and supporting passages.\n\n\n\n\n\n\n\n\nTEXTUAL EVIDENCE\n\n\nSupporting passages\n\n\n\n Character  All characters  \n Chapter  All visible chapters"
+  },
+  {
+    "objectID": "relationships.html",
+    "href": "relationships.html",
+    "title": "Relationships",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\nExplore how the novel’s social world emerges as you read. View the entire network, examine a curated literary group, or construct your own subset of characters. The network distinguishes observed textual co-occurrence from machine-proposed semantic relationships.\n\n Network view  All visible characters Curated group Custom selection  \n Character group  Karamazov household Karamazov brothers Central relationships Monastery / spiritual circle Khokhlakov household Ilyusha / schoolboy circle Fyodor’s social circle Major Karamazov network  \n Minimum shared passages\n\n 3\n\n\n\nReset view\n\n\n\n\n\n\nCUSTOM NETWORK\n\nSelect two or more characters\n\n\n\nClear\n\n\nSelect visible\n\n\n\n\n\n\n  Include immediate neighbors of selected characters \n\n\n\n\n Character  Observed co-occurrence\n\n\n\n\n\n\n\n\n\n\n\nRELATIONSHIP INSPECTOR\n\n\nSelect a connection\n\n\nClick an edge to examine the textual observation, proposed interpretations, and supporting evidence behind it. Click a node to inspect that character’s visible network."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Brothers Karamazov Explorer",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\n\n\nDIGITAL HUMANITIES · TEXT ANALYTICS · KNOWLEDGE GRAPH\n\n\nExplore the novel as text, network, emotion, and evidence.\n\n\nA computational reading environment for Dostoevsky’s The Brothers Karamazov.\n\n\n\n 14\n\nCharacters\n\n&lt;p&gt;Explore appearances, aliases, emotional context, and connections.&lt;/p&gt;\n\n 79\n\nConnections\n\n&lt;p&gt;Explore character co-occurrence as an interactive network.&lt;/p&gt;\n\n 10\n\nConcepts\n\n&lt;p&gt;Trace researcher-curated concepts across the novel.&lt;/p&gt;\n\n 96\n\nChapters\n\n&lt;p&gt;Follow sentiment and emotional trajectories chapter by chapter.&lt;/p&gt;\n\n\n\nEvidence model. The source text is evidence; the graph is an interpretation of that evidence. Machine-proposed semantic relationships are labeled as such rather than presented as textual fact."
+  },
+  {
+    "objectID": "ask.html",
+    "href": "ask.html",
+    "title": "Ask Dostoevsky",
+    "section": "",
+    "text": "SPOILER CONTROL\n      I've read through…\n    \n\n    \n      Loading chapters…\n    \n\n    \n  \n\n\n\n\n\n\n\n\n\nSPOILER-AWARE LITERARY RAG\n\n\nAsk Dostoevsky\nAsk about a character, conflict, idea, symbol, or moral question in The Brothers Karamazov.\nThe answer will use a simulated Dostoevskian literary voice, while its claims remain grounded in passages from the novel available at your current I’ve read through… position.\n\nLiterary simulation. Generated responses are not quotations from Dostoevsky. Direct quotations from the novel will be identified separately and linked to their source passages.\n\n\n\n\n\n\n\n\nDOSTOEVSKY · SIMULATED VOICE\n\n\nYou have opened the book and disturbed its people from their arguments. Very well. Ask what troubles you. But remember: a man rarely asks a question without revealing something of himself in the asking.\n\n\n\n\n\n\n\nReading boundary loading…\n\n\nAsk Dostoevsky\n\n\n\n\n\n\nTRY ASKING\n\n\n\nWhat does Ivan seem to believe about human freedom?\n\n\nHow does Alyosha respond to suffering?\n\n\nWhat is driving the conflict between Dmitri and his father?\n\n\nWhat has the novel said about faith and doubt so far?\n\n\nWhat should I notice about the Karamazov family?\n\n\n\n\nEVIDENCE RULE\n\n\nThe model may only receive passages at or before your selected reading boundary. Later passages are excluded before retrieval."
+  }
+]

@@ -1,0 +1,119 @@
+---
+title: "Relationships"
+---
+
+Explore how the novel's social world emerges as you read. View the entire
+network, examine a curated literary group, or construct your own subset of
+characters. The network distinguishes **observed textual co-occurrence** from
+**machine-proposed semantic relationships**.
+
+<div class="bk-network-controls bk-network-controls-v2">
+
+<label>
+<span>Network view</span>
+<select id="bk-network-view">
+<option value="all">All visible characters</option>
+<option value="group">Curated group</option>
+<option value="custom">Custom selection</option>
+</select>
+</label>
+
+<label id="bk-network-group-wrap" style="display:none;">
+<span>Character group</span>
+<select id="bk-network-group">
+<option value="karamazov-household">Karamazov household</option>
+<option value="karamazov-brothers">Karamazov brothers</option>
+<option value="central-relationships">Central relationships</option>
+<option value="monastery">Monastery / spiritual circle</option>
+<option value="khokhlakov">Khokhlakov household</option>
+<option value="ilyusha">Ilyusha / schoolboy circle</option>
+<option value="fyodor-social">Fyodor's social circle</option>
+<option value="major-network">Major Karamazov network</option>
+</select>
+</label>
+
+<label>
+<span>Minimum shared passages</span>
+<div class="bk-range-control">
+<input id="bk-network-threshold"
+       type="range"
+       min="1"
+       max="50"
+       value="3">
+<strong id="bk-network-threshold-value">3</strong>
+</div>
+</label>
+
+<button id="bk-network-reset"
+        class="bk-button"
+        type="button">
+Reset view
+</button>
+
+</div>
+
+<div id="bk-custom-selection"
+     class="bk-custom-selection"
+     style="display:none;">
+
+<div class="bk-custom-selection-header">
+<div>
+<div class="bk-eyebrow">CUSTOM NETWORK</div>
+<strong>Select two or more characters</strong>
+</div>
+
+<div class="bk-custom-actions">
+<button id="bk-custom-clear" class="bk-button" type="button">
+Clear
+</button>
+<button id="bk-custom-all" class="bk-button" type="button">
+Select visible
+</button>
+</div>
+</div>
+
+<div id="bk-character-checkboxes"
+     class="bk-character-checkboxes"></div>
+
+<label class="bk-neighbor-toggle">
+<input id="bk-include-neighbors" type="checkbox">
+<span>Include immediate neighbors of selected characters</span>
+</label>
+
+</div>
+
+<div class="bk-network-layout">
+
+<div class="bk-network-main">
+
+<div class="bk-network-legend">
+<span><i class="bk-legend-node"></i> Character</span>
+<span><i class="bk-legend-edge"></i> Observed co-occurrence</span>
+</div>
+
+<div id="bk-network-status"
+     class="bk-network-status"></div>
+
+<div id="bk-relationship-network"></div>
+
+</div>
+
+<aside id="bk-relationship-detail"
+       class="bk-relationship-detail">
+
+<div class="bk-detail-placeholder">
+<div class="bk-eyebrow">RELATIONSHIP INSPECTOR</div>
+<h3>Select a connection</h3>
+<p>
+Click an edge to examine the textual observation, proposed interpretations,
+and supporting evidence behind it. Click a node to inspect that character's
+visible network.
+</p>
+</div>
+
+</aside>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vis-network@9.1.9/dist/vis-network.min.js"></script>
+<script src="assets/js/relationships.js"></script>

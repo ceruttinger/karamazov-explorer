@@ -1,0 +1,104 @@
+---
+title: "Themes & Concepts"
+---
+
+Explore how computationally identified concepts move through the novel.
+Select one or several concepts to compare their trajectories, associated
+characters, chapters, and textual evidence.
+
+<div class="bk-theme-toolbar">
+
+<div>
+<div class="bk-eyebrow">CONCEPT SELECTION</div>
+<div id="bk-theme-pills" class="bk-theme-pills"></div>
+</div>
+
+<div class="bk-theme-actions">
+<button id="bk-theme-clear" class="bk-button" type="button">
+Clear
+</button>
+<button id="bk-theme-all" class="bk-button" type="button">
+Select all
+</button>
+</div>
+
+</div>
+
+<div id="bk-theme-status" class="bk-theme-status"></div>
+
+<div class="bk-theme-dashboard">
+
+<section class="bk-theme-chart-panel">
+
+<div class="bk-panel-heading">
+<div>
+<div class="bk-eyebrow">TRAJECTORY</div>
+<h2>Concepts across the novel</h2>
+</div>
+
+<label>
+<span>Measure</span>
+<select id="bk-theme-measure">
+<option value="passages">Passages mentioning concept</option>
+<option value="matches">Total term matches</option>
+</select>
+</label>
+</div>
+
+<div id="bk-theme-chart"></div>
+
+<p class="bk-panel-help">
+The chart is truncated at your current reader position. Click a point
+to inspect that chapter.
+</p>
+
+</section>
+
+<aside id="bk-theme-detail" class="bk-theme-detail">
+
+<div class="bk-detail-placeholder">
+<div class="bk-eyebrow">CONCEPT INSPECTOR</div>
+<h3>Select a concept</h3>
+<p>
+Choose a concept above to inspect its definition, chapter trajectory,
+associated characters, and supporting passages.
+</p>
+</div>
+
+</aside>
+
+</div>
+
+<section class="bk-theme-evidence-panel">
+
+<div class="bk-panel-heading">
+<div>
+<div class="bk-eyebrow">TEXTUAL EVIDENCE</div>
+<h2>Supporting passages</h2>
+</div>
+
+<div class="bk-theme-evidence-controls">
+
+<label>
+<span>Character</span>
+<select id="bk-theme-character-filter">
+<option value="">All characters</option>
+</select>
+</label>
+
+<label>
+<span>Chapter</span>
+<select id="bk-theme-chapter-filter">
+<option value="">All visible chapters</option>
+</select>
+</label>
+
+</div>
+</div>
+
+<div id="bk-theme-evidence"></div>
+
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@3.1.0/plotly.min.js"></script>
+<script src="assets/js/themes.js"></script>

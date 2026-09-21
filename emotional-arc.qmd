@@ -1,0 +1,97 @@
+---
+title: "Emotional Arc"
+include-after-body: assets/emotional-arc-loader.html
+---
+
+Explore changes in sentiment and emotional language across *The Brothers
+Karamazov*. Scores describe the language of passages—not the psychological
+state of a character.
+
+<div class="bk-emotion-toolbar">
+
+<label>
+<span>Lens</span>
+<select id="bk-emotion-lens">
+<option value="novel">Whole novel</option>
+<option value="character">Character context</option>
+</select>
+</label>
+
+<label id="bk-emotion-character-wrap" style="display:none;">
+<span>Character</span>
+<select id="bk-emotion-character"></select>
+</label>
+
+<label>
+<span>View</span>
+<select id="bk-emotion-view">
+<option value="single">Single measure</option>
+<option value="compare">Compare emotions</option>
+</select>
+</label>
+
+</div>
+
+<div id="bk-emotion-measures" class="bk-emotion-pills"></div>
+
+<div id="bk-emotion-status" class="bk-theme-status"></div>
+
+<div class="bk-theme-dashboard">
+
+<section class="bk-theme-chart-panel">
+
+<div class="bk-panel-heading">
+<div>
+<div class="bk-eyebrow">EMOTIONAL TRAJECTORY</div>
+<h2 id="bk-emotion-chart-title">Emotional language across the novel</h2>
+</div>
+</div>
+
+<div id="bk-emotion-chart"></div>
+
+<p class="bk-panel-help">
+Click a chapter on the chart to inspect its emotional fingerprint and
+the passages contributing to the selected measure.
+</p>
+
+</section>
+
+<aside id="bk-emotion-detail" class="bk-theme-detail">
+
+<div class="bk-detail-placeholder">
+<div class="bk-eyebrow">CHAPTER INSPECTOR</div>
+<h3>Select a chapter</h3>
+<p>
+Click a point in the trajectory to inspect the chapter's emotional
+profile and source passages.
+</p>
+</div>
+
+</aside>
+
+</div>
+
+<section class="bk-theme-evidence-panel">
+
+<div class="bk-panel-heading">
+<div>
+<div class="bk-eyebrow">SOURCE TEXT</div>
+<h2>Passages behind the signal</h2>
+</div>
+
+<label>
+<span>Sort passages</span>
+<select id="bk-emotion-sort">
+<option value="strongest">Strongest signal</option>
+<option value="reading">Reading order</option>
+</select>
+</label>
+
+</div>
+
+<div id="bk-emotion-evidence"></div>
+
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@3.1.0/plotly.min.js"></script>
+

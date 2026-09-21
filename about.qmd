@@ -1,0 +1,32 @@
+---
+title: "About the Project"
+---
+
+## What this is
+
+This project treats *The Brothers Karamazov* as a computational humanities
+corpus while preserving a distinction between textual observation and
+interpretation.
+
+## Epistemic model
+
+**Observed** — directly derived from the text, such as a character mention or
+co-occurrence.
+
+**Machine-proposed** — a computational interpretation that has not yet been
+human validated.
+
+**Human-validated** — an assertion reviewed against its textual evidence.
+
+## Current analytical layers
+
+- structured Part → Book → Chapter → Passage corpus
+- character authority and alias resolution
+- character mentions and co-occurrence
+- AFINN sentiment
+- NRC lexical emotions
+- researcher-curated lexical concepts
+- evidence-backed candidate semantic relationships
+- spoiler-aware narrative position
+- knowledge-graph representation
+- retrieval-ready passage corpus

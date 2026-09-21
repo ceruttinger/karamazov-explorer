@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Brothers Karamazov Explorer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: chapters.qmd
+        text: Read
+      - href: characters.qmd
+        text: Characters
+      - href: relationships.qmd
+        text: Relationships
+      - href: themes.qmd
+        text: Themes
+      - href: emotional-arc.qmd
+        text: Emotional Arc
+      - href: passages.qmd
+        text: Passages
+      - href: search.qmd
+        text: Search
+      - href: ask.qmd
+        text: Ask Dostoevsky
+      - href: about.qmd
+        text: About
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/styles.css
+    toc: false
+    page-layout: full
+    include-before-body: assets/reader-position.html
+
+resources:
+  - data/public/**
+  - assets/js/**
+  - assets/reader-position.html

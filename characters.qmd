@@ -1,0 +1,54 @@
+---
+title: "Characters"
+---
+
+Explore each character through textual appearances, emotional context,
+connections, concepts, and source evidence. Characters beyond your current
+reader position are automatically hidden.
+
+<div class="bk-character-nav">
+
+<div class="bk-character-nav-controls">
+
+<label>
+<span>Character group</span>
+<select id="bk-character-group">
+<option value="all">All characters</option>
+<option value="karamazov">Karamazov household</option>
+<option value="relationships">Central relationships</option>
+<option value="social">Monastery & social circle</option>
+<option value="ilyusha">Ilyusha / later circle</option>
+</select>
+</label>
+
+<label>
+<span>Jump to character</span>
+<select id="bk-character-jump">
+<option value="">Select character…</option>
+</select>
+</label>
+
+</div>
+
+<div class="bk-character-carousel-shell">
+
+<button id="bk-character-prev"
+        class="bk-carousel-arrow"
+        type="button"
+        aria-label="Previous characters">‹</button>
+
+<div id="bk-character-grid"
+     class="bk-character-carousel"></div>
+
+<button id="bk-character-next"
+        class="bk-carousel-arrow"
+        type="button"
+        aria-label="Next characters">›</button>
+
+</div>
+</div>
+
+<div id="bk-character-detail"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@3.1.0/plotly.min.js"></script>
+<script src="assets/js/explorer.js"></script>

@@ -1,0 +1,10 @@
+<script src="/assets/js/passages-v2.js?v=5"></script>
+<script>
+console.log("Starting Passages v2 explicitly...");
+
+if (typeof window.BKPassagesInit === "function") {
+    window.BKPassagesInit();
+} else {
+    console.error("BKPassagesInit was not found.");
+}
+</script>

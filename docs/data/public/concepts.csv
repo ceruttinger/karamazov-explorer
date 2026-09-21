@@ -1,0 +1,11 @@
+concept_id,concept_name,definition,validation_status,terms
+CON_001,faith,Researcher-curated lexical concept,curated,faith|believe|belief|god|christ|religion
+CON_002,doubt,Researcher-curated lexical concept,curated,doubt|doubtful|disbelief|skeptic
+CON_003,guilt,Researcher-curated lexical concept,curated,guilt|guilty|conscience|remorse
+CON_004,responsibility,Researcher-curated lexical concept,curated,responsibility|responsible|duty|obligation
+CON_005,suffering,Researcher-curated lexical concept,curated,suffer|suffering|pain|misery|anguish
+CON_006,free_will,Researcher-curated lexical concept,curated,free will|freedom|choice|choose
+CON_007,money_inheritance,Researcher-curated lexical concept,curated,money|inheritance|inherit|debt|rouble|rubles
+CON_008,justice,Researcher-curated lexical concept,curated,justice|court|trial|judge|law|crime
+CON_009,love,Researcher-curated lexical concept,curated,love|loved|beloved|affection
+CON_010,family,Researcher-curated lexical concept,curated,father|mother|son|brother|family

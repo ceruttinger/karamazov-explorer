@@ -1,0 +1,57 @@
+---
+title: "Passages"
+include-after-body: assets/passages-loader.html
+---
+
+Browse and search the source text behind the analytical layers of this project.
+Everything shown here respects your current **I've read through...** setting.
+
+<div class="bk-passages-toolbar">
+
+<label>
+<span>Part</span>
+<select id="bk-passages-part">
+<option value="">All visible parts</option>
+</select>
+</label>
+
+<label>
+<span>Book</span>
+<select id="bk-passages-book">
+<option value="">All visible books</option>
+</select>
+</label>
+
+<label>
+<span>Chapter</span>
+<select id="bk-passages-chapter">
+<option value="">All visible chapters</option>
+</select>
+</label>
+
+<label class="bk-passages-search-wrap">
+<span>Search visible text</span>
+<input id="bk-passages-search"
+       type="search"
+       placeholder="Search words or phrases...">
+</label>
+
+</div>
+
+<div id="bk-passages-status" class="bk-theme-status">
+Loading passages...
+</div>
+
+<section class="bk-passages-reader">
+
+<div id="bk-passages-results"></div>
+
+<div class="bk-passages-more-wrap">
+<button id="bk-passages-more" type="button">
+Load more passages
+</button>
+</div>
+
+</section>
+
+

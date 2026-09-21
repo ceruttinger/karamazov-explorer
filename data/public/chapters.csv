@@ -1,0 +1,97 @@
+part,book,book_title,chapter,chapter_title,passages,words
+I,I,The History Of A Family,I,,5,1332
+I,I,The History Of A Family,II,,5,1304
+I,I,The History Of A Family,III,,14,2592
+I,I,The History Of A Family,IV,,16,3510
+I,I,The History Of A Family,V,,17,3629
+I,II,An Unfortunate Gathering,I,,45,1796
+I,II,An Unfortunate Gathering,II,,41,3572
+I,II,An Unfortunate Gathering,III,,53,3237
+I,II,An Unfortunate Gathering,IV,,54,3034
+I,II,An Unfortunate Gathering,V,,37,3665
+I,II,An Unfortunate Gathering,VI,,68,3923
+I,II,An Unfortunate Gathering,VII,,66,3461
+I,II,An Unfortunate Gathering,VIII,,56,3515
+I,III,The Sensualists,I,,15,2256
+I,III,The Sensualists,II,,6,1646
+I,III,The Sensualists,III,,48,3327
+I,III,The Sensualists,IV,,30,3365
+I,III,The Sensualists,IX,,78,2051
+I,III,The Sensualists,V,,64,3352
+I,III,The Sensualists,VI,,31,2145
+I,III,The Sensualists,VII,,41,2172
+I,III,The Sensualists,VIII,,72,2852
+I,III,The Sensualists,X,,86,4438
+I,III,The Sensualists,XI,,41,3122
+II,IV,Lacerations,I,,60,4103
+II,IV,Lacerations,II,,42,1949
+II,IV,Lacerations,III,,46,1824
+II,IV,Lacerations,IV,,67,2312
+II,IV,Lacerations,V,,64,4503
+II,IV,Lacerations,VI,,58,3316
+II,IV,Lacerations,VII,,44,4378
+II,V,Pro And Contra,I,,95,4414
+II,V,Pro And Contra,II,,64,2532
+II,V,Pro And Contra,III,,65,3830
+II,V,Pro And Contra,IV,,31,4914
+II,V,Pro And Contra,V,,54,9247
+II,V,Pro And Contra,VI,,68,4331
+II,V,Pro And Contra,VII,,43,3408
+II,VI,The Russian Monk,I,,56,6362
+II,VI,The Russian Monk,II,,158,9124
+II,VI,The Russian Monk,III,,50,6236
+III,IX,The Preliminary Investigation,I,,44,2793
+III,IX,The Preliminary Investigation,II,,25,2699
+III,IX,The Preliminary Investigation,III,,61,3569
+III,IX,The Preliminary Investigation,IV,,61,3004
+III,IX,The Preliminary Investigation,IX,,38,1524
+III,IX,The Preliminary Investigation,V,,136,4387
+III,IX,The Preliminary Investigation,VI,,77,3166
+III,IX,The Preliminary Investigation,VII,,105,4751
+III,IX,The Preliminary Investigation,VIII,,68,3925
+III,VII,Alyosha,I,,56,5180
+III,VII,Alyosha,II,,42,2414
+III,VII,Alyosha,III,,138,7806
+III,VII,Alyosha,IV,,30,2047
+III,VIII,Mitya,I,,48,4761
+III,VIII,Mitya,II,,52,2965
+III,VIII,Mitya,III,,88,4722
+III,VIII,Mitya,IV,,35,2386
+III,VIII,Mitya,V,,179,6258
+III,VIII,Mitya,VI,,82,3097
+III,VIII,Mitya,VII,,222,6324
+III,VIII,Mitya,VIII,,135,5534
+IV,I,"n this way either in an access of childish and naïve optimism, or",I,,29,2211
+IV,I,"n this way either in an access of childish and naïve optimism, or",II,,57,3095
+IV,I,"n this way either in an access of childish and naïve optimism, or",III,,84,4152
+IV,I,"n this way either in an access of childish and naïve optimism, or",IX,,68,4568
+IV,I,"n this way either in an access of childish and naïve optimism, or",VII,,14,2063
+IV,I,"n this way either in an access of childish and naïve optimism, or",VIII,,25,4104
+IV,I,"n this way either in an access of childish and naïve optimism, or",X,,12,1714
+IV,I,"n this way either in an access of childish and naïve optimism, or",XI,,18,2826
+IV,I,"n this way either in an access of childish and naïve optimism, or",XII,,19,3420
+IV,I,"n this way either in an access of childish and naïve optimism, or",XIII,,23,3419
+IV,I,"n this way either in an access of childish and naïve optimism, or",XIV,,46,2552
+IV,X,The Boys,I,,12,2250
+IV,X,The Boys,II,,55,2257
+IV,X,The Boys,III,,114,2867
+IV,X,The Boys,IV,,34,3255
+IV,X,The Boys,V,,121,6657
+IV,X,The Boys,VI,,69,2630
+IV,X,The Boys,VII,,47,1387
+IV,XI,Ivan,I,,66,3940
+IV,XI,Ivan,II,,39,4365
+IV,XI,Ivan,III,,83,2537
+IV,XI,Ivan,IV,,96,5788
+IV,XI,Ivan,IX,,112,7942
+IV,XI,Ivan,V,,84,2234
+IV,XI,Ivan,VI,,83,4000
+IV,XI,Ivan,VII,,68,3848
+IV,XI,Ivan,VIII,,151,6406
+IV,XI,Ivan,X,,37,2249
+IV,XII,A Judicial Error,I,,22,2815
+IV,XII,A Judicial Error,II,,59,3795
+IV,XII,A Judicial Error,III,,21,2296
+IV,XII,A Judicial Error,IV,,62,3984
+IV,XII,A Judicial Error,V,,53,4127
+IV,XII,A Judicial Error,VI,,7,1076

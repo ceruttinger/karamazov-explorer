@@ -1,0 +1,18 @@
+---
+title: "Search the Novel"
+---
+
+Search the text, characters, chapter metadata, and concepts. Results respect
+your current spoiler boundary.
+
+<div class="search-card">
+  <label for="bk-search"><strong>Search the novel</strong></label>
+  <input id="bk-search" type="search"
+    placeholder="Try: Ivan, faith, Grand Inquisitor, money, Dmitri">
+  <button id="bk-search-button" class="btn btn-primary">Search</button>
+</div>
+
+<div id="bk-search-status" class="bk-result-count"></div>
+<div id="bk-search-results"></div>
+
+<script src="assets/js/search.js"></script>
