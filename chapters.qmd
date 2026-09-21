@@ -7,4 +7,4 @@ site-wide spoiler boundary.
 
 <div id="bk-chapter-browser"></div>
 
-<script src="assets/js/explorer.js"></script>
+<script src="assets/js/reader.js"></script>
