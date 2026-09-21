@@ -63,6 +63,13 @@
     "text": "Current analytical layers\n\nstructured Part → Book → Chapter → Passage corpus\ncharacter authority and alias resolution\ncharacter mentions and co-occurrence\nAFINN sentiment\nNRC lexical emotions\nresearcher-curated lexical concepts\nevidence-backed candidate semantic relationships\nspoiler-aware narrative position\nknowledge-graph representation\nretrieval-ready passage corpus"
   },
   {
+    "objectID": "about.html#support-continued-development",
+    "href": "about.html#support-continued-development",
+    "title": "About the Project",
+    "section": "Support continued development",
+    "text": "Support continued development\nIf you enjoy this project and would like to support its continued development, you can contribute through Venmo. Your support helps sustain the research, data preparation, interface development, and experimentation behind the explorer.\nSupport the project on Venmo: @Clark-Ruttinger\nTo learn more about my analytics, informatics, and digital humanities work, visit clarkruttinger.info."
+  },
+  {
     "objectID": "emotional-arc.html",
     "href": "emotional-arc.html",
     "title": "Emotional Arc",
