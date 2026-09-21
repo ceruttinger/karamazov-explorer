@@ -11,31 +11,30 @@ title: "The Brothers Karamazov Explorer"
   </p>
 </div>
 
+```{=html}
 <div class="bk-dashboard-grid">
   <a class="bk-feature-card" href="characters.html">
     <span class="bk-card-number">14</span>
     <h2>Characters</h2>
     <p>Explore appearances, aliases, emotional context, and connections.</p>
   </a>
-
   <a class="bk-feature-card" href="relationships.html">
     <span class="bk-card-number">79</span>
     <h2>Connections</h2>
     <p>Explore character co-occurrence as an interactive network.</p>
   </a>
-
   <a class="bk-feature-card" href="themes.html">
     <span class="bk-card-number">10</span>
     <h2>Concepts</h2>
     <p>Trace researcher-curated concepts across the novel.</p>
   </a>
-
   <a class="bk-feature-card" href="emotions.html">
     <span class="bk-card-number">96</span>
     <h2>Chapters</h2>
     <p>Follow sentiment and emotional trajectories chapter by chapter.</p>
   </a>
 </div>
+```
 
 <div class="bk-method-note">
 <strong>Evidence model.</strong>
