@@ -38,7 +38,7 @@ you can contribute through Venmo. Your support helps sustain the research,
 data preparation, interface development, and experimentation behind the
 explorer.
 
-**Support the project on Venmo:** [@Clark-Ruttinger](https://venmo.com/u/Clark-Ruttinger)
+**Support the project on Venmo:** [\@Clark-Ruttinger](https://venmo.com/u/Clark-Ruttinger)
 
 To learn more about my analytics, informatics, and digital humanities work,
 visit [clarkruttinger.info](https://clarkruttinger.info/).
