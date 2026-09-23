@@ -2,3 +2,6 @@
 *.bak
 local-ai-test.html
 semantic-search-test.html
+
+/.quarto/
+**/*.quarto_ipynb

@@ -4,7 +4,8 @@ project:
 
 website:
   title: "The Brothers Karamazov Explorer"
-  navbar:
+  google-analytics: "G-SZLX21J9P2"
+navbar:
     left:
       - href: index.qmd
         text: Home
